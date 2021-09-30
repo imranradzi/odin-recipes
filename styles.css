@@ -1,0 +1,22 @@
+
+body {
+  background-color: rgb(29, 29, 29)
+}
+
+* {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+#main-heading {
+  font-size: 48px;
+  text-align: center;
+  }
